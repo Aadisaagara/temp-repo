@@ -15,7 +15,11 @@ public class MySprindDataRestApplication {
 
 		String name="Rooman";
 
+
                float k=100.0f;
+
+		boolean b=true;
+
 
 	}
 
