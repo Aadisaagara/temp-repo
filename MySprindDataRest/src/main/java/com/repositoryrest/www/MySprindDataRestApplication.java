@@ -15,6 +15,8 @@ public class MySprindDataRestApplication {
 
 		String name="Rooman";
 
+		boolean b=true;
+
 	}
 
 }
