@@ -30,6 +30,13 @@ public class MySprindDataRestApplication {
 	}
 
 
+<<<<<<< Updated upstream
          
+=======
+          void m1(){
+
+ 
+          }
+>>>>>>> Stashed changes
 
 }
